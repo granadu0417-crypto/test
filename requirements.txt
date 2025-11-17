@@ -1,0 +1,4 @@
+# 바이낸스 데이터 다운로드를 위한 필수 라이브러리
+binance-historical-data
+pandas
+numpy
